@@ -1,0 +1,13 @@
+/* @use './partials/exmaple.scss'; */
+
+#app {
+  height: 100vh;
+  width: 100vw;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex-grow: 1;
+}
